@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+<ListPreference 
+    android:key="sem"
+    android:title="Enter Your Sem"
+    android:entries="@array/sem"
+    android:entryValues="@array/sem"
+    />
+<ListPreference 
+    android:key="department"
+    android:title="Enter Your Department"
+    android:entries="@array/dep"
+    android:entryValues="@array/dep"
+    
+    />
+<ListPreference 
+    android:key="year"
+    android:title="Enter Your Year"
+    android:entries="@array/year"
+    android:entryValues="@array/year"
+    
+    />
+<EditTextPreference 
+    android:key="id"
+    android:title="Enter Your ID"
+   
+    />
+<EditTextPreference 
+    android:key="pass"
+    android:title="Enter Your Birthdate(DD/MM/YYYY)"
+   
+    />
+</PreferenceScreen>

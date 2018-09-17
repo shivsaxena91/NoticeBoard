@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sem" >
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+        <item >5</item>
+        <item >6</item>
+        <item >7</item>
+        <item >8</item>
+    </string-array>
+     <string-array name="dep" >
+        <item >CE</item>
+        <item >EC</item>
+        <item >MECH</item>
+        <item >IT</item>
+        <item >IC</item>
+        <item >CHEM</item>
+        <item >CIVIL</item>
+        
+    </string-array>
+     <string-array name="year" >
+        <item >2010</item>
+        <item >2011</item>
+        <item >2012</item>
+        <item >2013</item>
+        <item >2014</item>
+        
+    </string-array>
+</resources>
